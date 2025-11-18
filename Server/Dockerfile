@@ -1,7 +1,7 @@
 
 FROM node:lts-alpine
 
-WORKDIR /app
+WORKDIR /ReactApp
 
 COPY package*.json ./
 
